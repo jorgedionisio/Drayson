@@ -1,7 +1,7 @@
 # Drayson
 
 Install gcloud and kubectl:
-'''https://cloud.google.com/sdk/docs/quickstarts'''
+https://cloud.google.com/sdk/docs/quickstarts
 
 sudo yum update kubectl
 
